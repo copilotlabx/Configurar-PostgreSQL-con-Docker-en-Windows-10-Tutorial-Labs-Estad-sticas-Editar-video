@@ -2,7 +2,7 @@
 
 Este tutorial explica de manera breve y clara cómo instalar y configurar Docker para levantar imágenes de PostgreSQL y así poder manejar bases de datos de manera fácil y rápida en Windows 10:
 
-[![Alt text](https://img.youtube.com/vi/N1Az8Sz4frX3HTTm/0.jpg)](https://www.youtube.com/watch?v=N1Az8Sz4frX3HTTm)
+[![Alt text](https://img.youtube.com/vi/4tinTdrCmtvqnn0y/0.jpg)](https://www.youtube.com/watch?v=4tinTdrCmtvqnn0y)
 
 Estos son los comandos que se usan en las diferentes terminales en el video. Además, dejaré el documento de configuración .yml para realizar correctamente la conexión con las bases de datos.:
 Terminal de PowerShell:
